@@ -15,9 +15,9 @@ Jest 🧪  <br />
 React Icons ⚡️ <br />
 Typescript 🖥
 
-# Testes 🧪
-Testes Unitários feito com Jest
-Para inicializar todos os testes já prepardos, utilize <code> yarn test </code>.
+**Testes** 🧪
+- Testes Unitários feito com Jest
+- Para inicializar todos os testes já prepardos, utilize <code> yarn test </code>.
 
 # Instalação da aplicação 🚀
 Executar :
