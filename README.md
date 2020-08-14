@@ -12,7 +12,7 @@ React ⚛️ <br />
 React Modal ⚛️ <br />
 Styled-Components 💅🏻 <br />
 Jest 🧪  <br />
-React Icons ⚛️❤️ <br />
+React Icons ⚡️ <br />
 Typescript 🖥
 
 # Testes 🧪
